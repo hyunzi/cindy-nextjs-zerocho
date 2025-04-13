@@ -1,3 +1,7 @@
-<div>
-    HOME 페이지
-</div>
+export default function Home() {
+  return (
+    <main>
+      홈페이지
+    </main>
+  )
+}
